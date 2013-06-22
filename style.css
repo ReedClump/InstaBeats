@@ -1,0 +1,35 @@
+.song-info{height:400px;
+    width:500px;
+    background-color:#FF1919;
+    position: absolute;
+    left:50%;
+    top:50%;
+    margin:-250px 0 0 -250px;
+}
+.player-left {
+    height: 50px;
+    width: 133.333px;
+    background-color:blue;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin:150px 0 0 -250px
+}
+.player-center{
+    height: 50px;
+    width: 234px;
+    background-color: darkgreen;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin:150px 0 0 -117px
+}
+.player-right{
+    height: 50px;
+    width: 133.333px;
+    background-color: orange;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin:150px 0 0 117px
+}
